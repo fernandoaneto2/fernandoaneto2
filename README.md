@@ -58,13 +58,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" title="MySQL" />
 </div>
 
+**AI Tools**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="30" alt="claude logo" title="Claude" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" alt="cursor logo" title="Cursor" />
+</div>
+
 <br>
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandoaneto2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=86400" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaneto2&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=86400" height="165" alt="top languages graph" />
+  <img src="https://raw.githubusercontent.com/fernandoaneto2/fernandoaneto2/main/generated/overview.svg" height="165" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/fernandoaneto2/fernandoaneto2/main/generated/languages.svg" height="165" alt="top languages graph" />
 </div>
 
 <div align="center">
