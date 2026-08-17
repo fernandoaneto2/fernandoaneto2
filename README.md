@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fernando 👋</h1>
+<h1 align="center">Hi there, I'm Fernando </h1>
 <h3 align="center">Web Developer from Brazil</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 <br>
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Web Developer working across the JavaScript/TypeScript ecosystem
-- 🌱 Constantly learning and improving my skills as a full-stack developer
-- 🤝 Open to collaborating on interesting projects
-- 📫 Reach me at **fernando.neto02@gmail.com**
+-  Web Developer working across the JavaScript/TypeScript ecosystem
+-  Constantly learning and improving my skills as a full-stack developer
+-  Open to collaborating on interesting projects
+-  Reach me at **fernando.neto02@gmail.com**
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -60,7 +60,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandoaneto2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=86400" height="165" alt="stats graph" />
@@ -77,7 +77,7 @@
 
 <br>
 
-## 📫 Connect with me
+## Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fernando-amorim-33860624a/" target="_blank">
