@@ -74,14 +74,15 @@
   <img src="https://raw.githubusercontent.com/fernandoaneto2/fernandoaneto2/main/generated/overview.svg" height="165" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/fernandoaneto2/fernandoaneto2/main/generated/languages.svg" height="165" alt="top languages graph" />
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fernandoaneto2&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fernandoaneto2&theme=dracula&hide_border=true&cache_seconds=86400" height="165" alt="streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fernandoaneto2&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
-</div>
+
 
 <br>
 
